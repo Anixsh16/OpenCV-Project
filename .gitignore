@@ -1,0 +1,8 @@
+
+*.filters
+*.user
+OpenCVCourse.vcxproj
+*.obj
+*.idb
+*.tlog
+*.recipe
